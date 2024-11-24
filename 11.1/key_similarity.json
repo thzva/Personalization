@@ -1,0 +1,221 @@
+{
+  "timestamp": "2024-11-01T23:38:34.041720",
+  "similarities": [
+    {
+      "person1": "Sarah Walker",
+      "person2": "Alexandra Johnson",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Sarah Walker",
+      "person2": "Angela Carter",
+      "interests_similarity": 0.5,
+      "lifestyle_similarity": 0.75
+    },
+    {
+      "person1": "Sarah Walker",
+      "person2": "Emily Watson",
+      "interests_similarity": 0.5,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Sarah Walker",
+      "person2": "Michael Carter",
+      "interests_similarity": 0.5,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Sarah Walker",
+      "person2": "Emily Thompson",
+      "interests_similarity": 1.0,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Sarah Walker",
+      "person2": "Gabrielle Henderson",
+      "interests_similarity": 0.5,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Sarah Walker",
+      "person2": "Alexander Morrison",
+      "interests_similarity": 0.5,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Sarah Walker",
+      "person2": "Emily Thompson",
+      "interests_similarity": 0.5,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Alexandra Johnson",
+      "person2": "Angela Carter",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Alexandra Johnson",
+      "person2": "Emily Watson",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Alexandra Johnson",
+      "person2": "Michael Carter",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Alexandra Johnson",
+      "person2": "Emily Thompson",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Alexandra Johnson",
+      "person2": "Gabrielle Henderson",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Alexandra Johnson",
+      "person2": "Alexander Morrison",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Alexandra Johnson",
+      "person2": "Emily Thompson",
+      "interests_similarity": 1.0,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Angela Carter",
+      "person2": "Emily Watson",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Angela Carter",
+      "person2": "Michael Carter",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Angela Carter",
+      "person2": "Emily Thompson",
+      "interests_similarity": 0.5,
+      "lifestyle_similarity": 1.0
+    },
+    {
+      "person1": "Angela Carter",
+      "person2": "Gabrielle Henderson",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.75
+    },
+    {
+      "person1": "Angela Carter",
+      "person2": "Alexander Morrison",
+      "interests_similarity": 0.5,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Angela Carter",
+      "person2": "Emily Thompson",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Emily Watson",
+      "person2": "Michael Carter",
+      "interests_similarity": 1.0,
+      "lifestyle_similarity": 0.75
+    },
+    {
+      "person1": "Emily Watson",
+      "person2": "Emily Thompson",
+      "interests_similarity": 0.25,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Emily Watson",
+      "person2": "Gabrielle Henderson",
+      "interests_similarity": 1.0,
+      "lifestyle_similarity": 0.75
+    },
+    {
+      "person1": "Emily Watson",
+      "person2": "Alexander Morrison",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.75
+    },
+    {
+      "person1": "Emily Watson",
+      "person2": "Emily Thompson",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Michael Carter",
+      "person2": "Emily Thompson",
+      "interests_similarity": 0.5,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Michael Carter",
+      "person2": "Gabrielle Henderson",
+      "interests_similarity": 1.0,
+      "lifestyle_similarity": 0.75
+    },
+    {
+      "person1": "Michael Carter",
+      "person2": "Alexander Morrison",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.75
+    },
+    {
+      "person1": "Michael Carter",
+      "person2": "Emily Thompson",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Emily Thompson",
+      "person2": "Gabrielle Henderson",
+      "interests_similarity": 0.5,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Emily Thompson",
+      "person2": "Alexander Morrison",
+      "interests_similarity": 0.25,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Emily Thompson",
+      "person2": "Emily Thompson",
+      "interests_similarity": 0.5,
+      "lifestyle_similarity": 0.25
+    },
+    {
+      "person1": "Gabrielle Henderson",
+      "person2": "Alexander Morrison",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.75
+    },
+    {
+      "person1": "Gabrielle Henderson",
+      "person2": "Emily Thompson",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.5
+    },
+    {
+      "person1": "Alexander Morrison",
+      "person2": "Emily Thompson",
+      "interests_similarity": 0.75,
+      "lifestyle_similarity": 0.5
+    }
+  ]
+}

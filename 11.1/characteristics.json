@@ -1,0 +1,88 @@
+{
+    "basicPersonalInformation": {
+      "fullName": {
+        "firstName": "",
+        "middleName": "",
+        "lastName": ""
+      },
+      "dateOfBirth": "DD/MM/YYYY",
+      "gender": [
+        "Male",
+        "Female",
+        "Non-binary",
+        "Prefer not to say"
+      ],
+      "maritalStatus": [
+        "Single",
+        "Married",
+        "Divorced",
+        "Widowed",
+        "Partnered"
+      ]
+    },
+    "additionalPersonalInformation": {
+      "nationality": "Country of origin or citizenship",
+      "ethnicity": "Cultural or ethnic background",
+      "languagesSpoken": [],
+      "preferredPronouns": "",
+      "countryOfResidence": "",
+      "cityOfResidence": ""
+    },
+    "educationalInformation": {
+      "highestEducationLevel": "",
+      "institutionsAttended": [
+        {
+          "instituteName": "",
+          "degree": "",
+          "fieldOfStudy": "",
+          "startDate": "",
+          "endDate": ""
+        }
+      ]
+    },
+    "professionalInformation": {
+      "currentOccupation": "",
+      "employer": "",
+      "industry": "",
+      "skills": [],
+      "experienceLevel": "",
+      "workHistory": []
+    },
+    "preferencesAndInterests": {
+      "hobbiesAndInterests": [],
+      "contentPreferences": [],
+      "shoppingPreferences": {
+        "preferredBrands": [],
+        "productTypes": [],
+        "priceRanges": []
+      },
+      "learningPreferences": [],
+      "dietaryPreferences": []
+    },
+    "psychographicInformation": {
+      "personalityTraits": [],
+      "temperament": "",
+      "characterStrengths": [],
+      "values": [],
+      "purposeAndMeaning": "",
+      "motivationAndDesires": [],
+      "lifestyle": {
+        "dailyHabits": [],
+        "healthGoals": [],
+        "politicalSocialBeliefs": []
+      }
+    },
+    "fitness": {
+      "healthGoals": [],
+      "medicalConditions": [],
+      "exercisePreferences": []
+    },
+    "politicalViews": "",
+    "onlinePresence": {
+      "groupsAndCommunities": [],
+      "technologyUsage": {
+        "platforms": [],
+        "tools": []
+      }
+    }
+  }

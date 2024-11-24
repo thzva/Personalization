@@ -1,0 +1,1201 @@
+[
+  {
+    "characterId": "TC001",
+    "timestamp": "2024-11-06T21:37:36.101860",
+    "profile": {
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Eleanor Mayfield",
+          "age": "58",
+          "gender": "Female",
+          "location": "Maple Street, Fairview",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "White",
+          "educationLevel": "College degree",
+          "householdComposition": "Lives with husband, two cats",
+          "languagesSpoken": [
+            "English (native)"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "5'5\", average build",
+          "distinctiveFeatures": "Silver hair, always in a neat bun",
+          "preferredAttire": "Floral dresses with cardigans"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "Warm, nurturing, but fiercely independent",
+          "emotionalReactivity": "Highly empathetic, easily moved to tears by touching stories",
+          "mentalResilience": "Strong, has overcome several of life's hardships with grace"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Hosts an annual block party, known for her legendary apple pie",
+          "languageProficiency": "English",
+          "socialEtiquetteNorms": "Values politeness, community participation, and neighborliness"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Married to Harold Mayfield, a retired schoolteacher",
+          "children": "Two adult children, neither living in Fairview"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Interested in genealogy, tracing her family's history",
+          "preferredLearningFormat": "Hands-on, through trips to historical sites and archives"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Quilting, has won several local craft fair awards",
+          "outdoorActivities": "Gardening, especially heirloom roses",
+          "travel": "Visits historical landmarks across the country"
+        },
+        "mediaConsumption": {
+          "newsSources": "Local newspaper, enjoys the personal stories section",
+          "readingHabits": "Frequent, mostly historical novels and biographies"
+        }
+      },
+      "relationships": [
+        {
+          "relation": "Neighbor",
+          "name": "Lucy Harmon",
+          "description": "Shares gardening tips and often swaps cuttings with Eleanor."
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC002",
+    "timestamp": "2024-11-06T21:38:00.474949",
+    "profile": {
+      "fileName": "character-profile-2.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2023-03-15",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Elijah Moore",
+          "age": "48",
+          "gender": "Male",
+          "location": "Maplewood Lane, Small Town",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "Caucasian",
+          "educationLevel": "College Degree",
+          "householdComposition": "Lives with wife and two children",
+          "languagesSpoken": [
+            "English"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "6'1\", athletic",
+          "distinctiveFeatures": "Salt-and-pepper hair, always seen with a baseball cap",
+          "healthConditions": "None",
+          "mobilityLimitations": "None",
+          "preferredAttire": "Casual, often wears flannel and jeans"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "Extroverted, community-oriented",
+          "cognitiveStyle": "Practical, hands-on",
+          "riskTolerance": "Moderate",
+          "emotionalReactivity": "Stable, but passionate about community issues",
+          "mentalResilience": "High"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Deeply involved in local traditions and celebrations",
+          "languageProficiency": "Native in English",
+          "historicalMilestones": "Deeply impacted by the economic downturn, focused on community revival",
+          "generationalInfluence": "Values hard work, community service, and family",
+          "socialEtiquetteNorms": "Friendly, but respects privacy and expects the same"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Married to Anna Moore",
+          "children": "Two children, ages 15 and 12",
+          "siblings": "Has a younger sister, not in town",
+          "parents": "Close to his father, who passed away five years ago; strong influence",
+          "extendedFamily": "Several cousins in town"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Interested in local history and sustainable farming techniques",
+          "preferredLearningFormat": "Hands-on workshops, community meetings",
+          "knowledgeDepth": "Extensive knowledge in local history, carpentry",
+          "learningResources": "Local library, community elders",
+          "certificationsAndDegrees": "Bachelor's in Environmental Science"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Woodworking, building birdhouses",
+          "sportsAndFitness": "Coaches little league baseball, regular at community runs",
+          "intellectualPursuits": "Local history buff",
+          "outdoorActivities": "Gardening, hiking with family",
+          "travel": "Prefers local trips and national parks"
+        },
+        "mediaConsumption": {
+          "newsSources": "Local newspaper, community bulletin board",
+          "socialMediaPreferences": "Facebook for local groups and events",
+          "influencerEngagement": "Low",
+          "mediaFormatPreference": "Printed materials, face-to-face conversations",
+          "readingHabits": "Frequent reader of non-fiction, especially history and biographies"
+        }
+      },
+      "relationships": [
+        {
+          "relation": "Friend",
+          "with": "Lucy Harmon",
+          "description": "Elijah and Lucy serve together on the local school board and share a passion for community development."
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC003",
+    "timestamp": "2024-11-06T21:38:22.282552",
+    "profile": {
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Elijah Thompson",
+          "age": "45",
+          "gender": "Male",
+          "location": "Briarwood Lane, Small Town, USA",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "Caucasian",
+          "educationLevel": "College Graduate",
+          "householdComposition": "Lives with spouse and two children",
+          "languagesSpoken": [
+            "English"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "6'2\", athletic build",
+          "distinctiveFeatures": "Has a well-kept beard and often seen wearing a baseball cap",
+          "preferredAttire": "Casual, often in denim and flannel"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "ISTJ - Practical, reliable, and reserved",
+          "riskTolerance": "Low - Prefers stability over uncertainty in both financial and personal decisions",
+          "emotionalReactivity": "Low - Maintains composure under stress",
+          "mentalResilience": "High - Faces adversity with practical solutions"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Celebrates traditional American holidays with a focus on family gatherings",
+          "languageProficiency": "Native in English",
+          "socialEtiquetteNorms": "Values politeness, punctuality, and direct communication"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Married to Sarah Thompson",
+          "children": "Two children, a son (12) and a daughter (9)",
+          "siblings": "Has a younger sister who lives in a nearby town",
+          "parents": "Both parents are retired and live in the same town"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Interested in woodworking and home renovation",
+          "knowledgeDepth": "Deep knowledge in construction and DIY projects",
+          "learningResources": "Prefers hands-on workshops and DIY YouTube videos"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Woodworking, creating custom furniture",
+          "sportsAndFitness": "Coaches little league baseball, enjoys hiking",
+          "intellectualPursuits": "Reading historical non-fiction",
+          "outdoorActivities": "Gardening, especially vegetables and herbs",
+          "travel": "Prefers road trips to national parks with the family"
+        },
+        "mediaConsumption": {
+          "newsSources": "Local newspaper and NPR",
+          "socialMediaPreferences": "Facebook for community groups and events",
+          "mediaFormatPreference": "Prefers physical books and live sports broadcasts"
+        }
+      },
+      "relationships": [
+        {
+          "name": "Sarah Thompson",
+          "relation": "Spouse"
+        },
+        {
+          "name": "Lucy Harmon",
+          "relation": "Friend, met through community gardening club"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC004",
+    "timestamp": "2024-11-06T21:38:48.797702",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2023-10-12",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Elijah Green",
+          "age": "47",
+          "gender": "Male",
+          "location": "Maple Street, Smalltown",
+          "countryOfBirth": "United States",
+          "nationality": "American",
+          "ethnicityRace": "White",
+          "educationLevel": "Some College",
+          "householdComposition": "Lives with wife and two teenage children",
+          "languagesSpoken": [
+            "English"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "6 feet, Athletic",
+          "distinctiveFeatures": "Salt and pepper hair, always seen with a baseball cap",
+          "healthConditions": "Type 2 Diabetes",
+          "mobilityLimitations": "None",
+          "preferredAttire": "Jeans and flannel shirts"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "Extroverted, community-oriented",
+          "cognitiveStyle": "Practical thinker",
+          "riskTolerance": "Low",
+          "emotionalReactivity": "Stable",
+          "mentalResilience": "High"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Active participant in local festivals",
+          "languageProficiency": "Native in English",
+          "historicalMilestones": "Volunteered during major floods in 2010",
+          "generationalInfluence": "Gen X",
+          "socialEtiquetteNorms": "Values politeness, community service"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Married to Julia Green",
+          "children": "Two teenagers, Emma (16) and Noah (14)",
+          "siblings": "Younger sister, Maggie Green",
+          "parents": "Mother deceased, father lives nearby",
+          "extendedFamily": "Cousins, aunts, and uncles mostly live in the same county"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Interested in woodworking and sustainable farming",
+          "preferredLearningFormat": "Hands-on workshops",
+          "knowledgeDepth": "Deep knowledge in local history",
+          "learningResources": [
+            "Local library",
+            "Community college courses"
+          ]
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Woodworking, crafting furniture",
+          "sportsAndFitness": "Coaches local youth baseball team",
+          "intellectualPursuits": "Reading historical novels",
+          "outdoorActivities": "Gardening, hiking with family",
+          "travel": "Prefers road trips to historical sites"
+        },
+        "mediaConsumption": {
+          "newsSources": "Local newspaper, NPR",
+          "socialMediaPreferences": "Facebook for community events",
+          "influencerEngagement": "None",
+          "mediaFormatPreference": "Printed materials, radio",
+          "readingHabits": "Daily, includes a mix of fiction and non-fiction"
+        }
+      },
+      "relationships": [
+        {
+          "relation": "Friend",
+          "with": "Lucy Harmon",
+          "description": "Elijah and Lucy go back to their high school days, share an interest in local history"
+        },
+        {
+          "relation": "Neighbor",
+          "with": "Sarah Thompson",
+          "description": "Lives on the same street, often collaborates on neighborhood projects"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC005",
+    "timestamp": "2024-11-06T21:39:16.342892",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2023-09-15",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Elijah Moore",
+          "age": "52",
+          "gender": "Male",
+          "location": "Maple Street, Oakwood",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "Caucasian",
+          "educationLevel": "Master's Degree in Environmental Science",
+          "householdComposition": "Lives with wife and two teenage children",
+          "languagesSpoken": [
+            "English (native)"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "6'2\", Athletic",
+          "distinctiveFeatures": "Salt and pepper beard",
+          "healthConditions": "None",
+          "mobilityLimitations": "None",
+          "preferredAttire": "Casual, often seen in denim with a flannel shirt"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "ESTJ - Organized, dependable, and practical",
+          "cognitiveStyle": "Analytical, focused on problem-solving and efficiency",
+          "riskTolerance": "Moderate, calculated risks in professional settings",
+          "emotionalReactivity": "Stable, but passionate about environmental issues",
+          "mentalResilience": "High, adapts well to change and challenges"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Active participant in local environmental conservation efforts",
+          "languageProficiency": "High level of technical and scientific language proficiency",
+          "historicalMilestones": "Has been part of significant environmental policy changes in the community",
+          "generationalInfluence": "Baby Boomer, with a strong work ethic and commitment to community service",
+          "socialEtiquetteNorms": "Values direct communication and honesty"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Married to Amelia Moore, a high school science teacher",
+          "children": "Father to two teenagers, a son, and a daughter, both active in outdoor sports",
+          "siblings": "Has a younger sister who lives in a nearby city",
+          "parents": "Close to his retired parents who also live in Oakwood",
+          "extendedFamily": "Several cousins and their families live within the community"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Continues to stay updated on the latest in environmental science and policy",
+          "preferredLearningFormat": "Professional workshops and seminars",
+          "knowledgeDepth": "Expert in local flora and fauna, climate change impact on local ecosystems",
+          "learningResources": "Scientific journals, online courses",
+          "certificationsAndDegrees": "Master's Degree in Environmental Science, various certifications in wildlife conservation"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Photography, especially nature and wildlife",
+          "sportsAndFitness": "Hiking, kayaking",
+          "intellectualPursuits": "Environmental activism, bird watching",
+          "outdoorActivities": "Camping with family, community clean-up initiatives",
+          "travel": "Visits national parks and reserves"
+        },
+        "mediaConsumption": {
+          "newsSources": "Primarily environmental and scientific publications",
+          "socialMediaPreferences": "Uses platforms to advocate for environmental causes",
+          "influencerEngagement": "Follows and engages with environmental scientists and activists",
+          "mediaFormatPreference": "Documentaries, podcasts on scientific and environmental topics",
+          "readingHabits": "Frequent reader of scientific research and non-fiction on environmental issues"
+        }
+      },
+      "relationships": [
+        {
+          "name": "Amelia Moore",
+          "relationship": "Wife, high school science teacher, collaborates on community environmental education programs"
+        },
+        {
+          "name": "Lucy Harmon",
+          "relationship": "Neighbor, shares interests in community gardening and conservation efforts"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC006",
+    "timestamp": "2024-11-06T21:39:34.500312",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2023-12-01",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Oliver Martinez",
+          "age": "47",
+          "gender": "Male",
+          "location": "Main Street, Springfield",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "Hispanic",
+          "educationLevel": "College degree",
+          "householdComposition": "Lives with wife and two children",
+          "languagesSpoken": [
+            "English",
+            "Spanish"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "5'10, stocky",
+          "distinctiveFeatures": "A well-kept mustache",
+          "preferredAttire": "Flannel shirts and denim jeans"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "Extroverted, community-oriented, and pragmatic",
+          "riskTolerance": "Moderate",
+          "mentalResilience": "High"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Celebrates both American and Hispanic cultural holidays",
+          "socialEtiquetteNorms": "Values face-to-face communication and community gatherings"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Married to Sofia Martinez",
+          "children": "Two, a son (20) and a daughter (16)"
+        },
+        "learningKnowledgeBuilding": {
+          "preferredLearningFormat": "Hands-on learning",
+          "knowledgeDepth": "Deep knowledge in carpentry and local history"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Woodworking and crafting furniture",
+          "outdoorActivities": "Fishing and hiking",
+          "intellectualPursuits": "Reading local history"
+        },
+        "mediaConsumption": {
+          "newsSources": "Local newspaper and community bulletin board",
+          "readingHabits": "Frequent reader of historical books and woodworking magazines"
+        }
+      },
+      "relationships": [
+        {
+          "name": "Lucy Harmon",
+          "relationship": "Close friend and collaborator on community projects"
+        },
+        {
+          "name": "Amelia Moore",
+          "relationship": "Neighbor"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC007",
+    "timestamp": "2024-11-06T21:40:03.548584",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2024-11-06",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Ethan Carter",
+          "age": "42",
+          "gender": "Male",
+          "location": "Maple Street, Oakwood",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "Caucasian",
+          "educationLevel": "Bachelor's Degree in Environmental Science",
+          "householdComposition": "Lives with partner and two dogs",
+          "languagesSpoken": [
+            "English (native)"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "6'0, athletic build",
+          "distinctiveFeatures": "A large, intricately detailed tree tattoo on his right arm",
+          "healthConditions": "None",
+          "mobilityLimitations": "None",
+          "preferredAttire": "Casual, often seen in jeans and flannel shirts"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "INTJ - Strategic, curious, and often private",
+          "cognitiveStyle": "Analytical thinker with a preference for complex problem solving",
+          "riskTolerance": "Moderate, calculated risks",
+          "emotionalReactivity": "Generally stoic, but passionate about environmental issues",
+          "mentalResilience": "Highly resilient, adapts well to change"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Participates in annual town clean-up and Earth Day events",
+          "languageProficiency": "Fluent in English",
+          "historicalMilestones": "Actively involved in local environmental conservation efforts following a major oil spill incident near the town five years ago",
+          "generationalInfluence": "Gen X, values independence and work-life balance",
+          "socialEtiquetteNorms": "Values direct communication and honesty"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Engaged to Mia Zhang",
+          "children": "None",
+          "siblings": "One older sister, not in town",
+          "parents": "Deceased",
+          "extendedFamily": "Cousin, Alex Carter, runs local hardware store"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Interested in renewable energy solutions for small communities",
+          "preferredLearningFormat": "Online courses and hands-on workshops",
+          "knowledgeDepth": "Deep knowledge in environmental sciences, beginner in renewable energy technologies",
+          "learningResources": "Scientific journals, environmental blogs, and webinars",
+          "certificationsAndDegrees": "Bachelor's Degree in Environmental Science"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Photography, especially nature and wildlife",
+          "sportsAndFitness": "Hiking, kayaking",
+          "intellectualPursuits": "Reading up on latest environmental conservation techniques",
+          "outdoorActivities": "Bird watching, camping",
+          "travel": "Travels mainly for nature-related experiences"
+        },
+        "mediaConsumption": {
+          "newsSources": "Primarily follows environmental news platforms",
+          "socialMediaPreferences": "Active on platforms like Instagram to share his nature photography",
+          "influencerEngagement": "Follows and engages with environmental activists",
+          "mediaFormatPreference": "Prefers articles and documentaries",
+          "readingHabits": "Reads daily, mix of fiction and non-fiction related to nature and science"
+        }
+      },
+      "relationships": [
+        {
+          "name": "Mia Zhang",
+          "relationship": "Partner"
+        },
+        {
+          "name": "Alex Carter",
+          "relationship": "Cousin"
+        },
+        {
+          "name": "Lucy Harmon",
+          "relationship": "Friend and fellow environmental activist"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC008",
+    "timestamp": "2024-11-06T21:40:33.892617",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2024-11-06",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Theodore 'Ted' Wallace",
+          "age": "47",
+          "gender": "Male",
+          "location": "Cedarwood Lane, neat the town square",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "Caucasian",
+          "educationLevel": "Some college",
+          "householdComposition": "Lives alone, widower, no children",
+          "languagesSpoken": [
+            "English"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "6'0, burly",
+          "distinctiveFeatures": "Thick beard, always wears a baseball cap",
+          "healthConditions": "Mild arthritis",
+          "mobilityLimitations": "None",
+          "preferredAttire": "Denim jeans and flannel shirts"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "Introverted, kind, reserved",
+          "cognitiveStyle": "Practical, hands-on problem solver",
+          "riskTolerance": "Low",
+          "emotionalReactivity": "Stoic, but sensitive in emotional matters",
+          "mentalResilience": "Strong, has coped with significant personal loss"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Honors traditional American holidays with a unique family recipe",
+          "languageProficiency": "Native in English, knows some Spanish",
+          "historicalMilestones": "Veteran of the Gulf War",
+          "generationalInfluence": "Gen X, values independence and hard work",
+          "socialEtiquetteNorms": "Polite, values community, and personal space"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Widowed",
+          "siblings": "Has a younger sister, Ellie, not in town",
+          "parents": "Both deceased"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Interested in woodworking and history",
+          "preferredLearningFormat": "Hands-on and visual learning",
+          "knowledgeDepth": "Expert in carpentry, knowledgeable in local history",
+          "learningResources": "Workshops, local library",
+          "certificationsAndDegrees": "Certified Carpenter"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Woodworking, builds furniture",
+          "sportsAndFitness": "Fishing, hiking",
+          "intellectualPursuits": "Reading history books",
+          "outdoorActivities": "Gardening, especially heirloom tomatoes",
+          "travel": "Prefers road trips to historical sites"
+        },
+        "mediaConsumption": {
+          "newsSources": "Local newspaper, history magazines",
+          "socialMediaPreferences": "Not very active, but checks Facebook",
+          "mediaFormatPreference": "Printed materials, documentaries",
+          "readingHabit": "Reads daily, prefers non-fiction"
+        }
+      },
+      "relationships": [
+        {
+          "name": "Mia Zhang",
+          "relationship": "Ted patronizes Mia's cafe regularly, enjoys the quiet atmosphere for reading"
+        },
+        {
+          "name": "Lucy Harmon",
+          "relationship": "Neighbors, Ted often helps Lucy with home repairs"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC009",
+    "timestamp": "2024-11-06T21:41:03.555607",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2024-11-06",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Elijah Bennett",
+          "age": "42",
+          "gender": "Male",
+          "location": "Willow Creek, Pine Valley",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "Caucasian",
+          "educationLevel": "Bachelor's Degree in Environmental Science",
+          "householdComposition": "Lives alone, frequently hosts community gatherings",
+          "languagesSpoken": [
+            "English (Native)"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "6'0, athletic build",
+          "distinctiveFeatures": "A large, noticeable scar on his left forearm from a wildlife rescue operation",
+          "healthConditions": "None",
+          "mobilityLimitations": "None",
+          "preferredAttire": "Outdoor gear, often seen in hiking boots and a park ranger uniform"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "INTJ - Strategic, reserved, but passionate about environmental conservation",
+          "cognitiveStyle": "Analytical and strategic thinker, with a focus on long-term planning",
+          "riskTolerance": "High - frequently engages in wildlife rescue and environmental restoration projects",
+          "emotionalReactivity": "Low - remains calm and composed in stressful situations",
+          "mentalResilience": "High - adept at navigating the challenges of conservation work"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Participates in annual Earth Day events, organizing community clean-up and tree planting activities",
+          "languageProficiency": "English (Native)",
+          "historicalMilestones": "Witnessed the establishment of the local nature reserve and played a key role in its development",
+          "generationalInfluence": "Gen X, values independence and contribution towards a sustainable environment",
+          "socialEtiquetteNorms": "Values directness and honesty, especially in discussions related to environmental issues"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Single",
+          "children": "None",
+          "siblings": "Has a younger sister who is a climate scientist",
+          "parents": "Both parents were environmental activists",
+          "extendedFamily": "Cousin owns a local organic farm"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Interested in renewable energy technologies",
+          "preferredLearningFormat": "Hands-on workshops and fieldwork",
+          "knowledgeDepth": "Deep in environmental science and conservation strategies",
+          "learningResources": "Scientific journals, environmental podcasts, and documentaries",
+          "certificationsAndDegrees": "Bachelor's Degree in Environmental Science, Certified Wildlife Rehabilitator"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Nature photography",
+          "sportsAndFitness": "Hiking, kayaking",
+          "intellectualPursuits": "Reading the latest research on biodiversity",
+          "outdoorActivities": "Bird watching, camping",
+          "travel": "Visits national parks across the country to learn about different ecosystems"
+        },
+        "mediaConsumption": {
+          "newsSources": "Primarily follows environmental news networks",
+          "socialMediaPreferences": "Uses social media to promote environmental awareness and share information on local conservation efforts",
+          "influencerEngagement": "Follows and engages with environmental activists and wildlife photographers",
+          "mediaFormatPreference": "Documentaries and podcasts",
+          "readingHabits": "Frequent reader of environmental science literature"
+        }
+      },
+      "relationships": [
+        {
+          "name": "Lucy Harmon",
+          "relationship": "Collaborates with on community recycling initiatives"
+        },
+        {
+          "name": "Mia Zhang",
+          "relationship": "Frequently discusses renewable energy solutions and participates in environmental seminars together"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC010",
+    "timestamp": "2024-11-06T21:41:37.245830",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2024-11-06",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Elijah Greene",
+          "age": "45",
+          "gender": "Male",
+          "location": "Eastwood Lane, near the old mill",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "Caucasian",
+          "educationLevel": "College Diploma",
+          "householdComposition": "Lives alone, but has a golden retriever named Scout",
+          "languagesSpoken": [
+            "English (Native)"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "6ft, athletic",
+          "distinctiveFeatures": "A large, noticeable scar on his left forearm from a woodworking accident",
+          "healthConditions": "N/A",
+          "mobilityLimitations": "N/A",
+          "preferredAttire": "Flannel shirts, denim, and boots; always seen with a leather bracelet"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "ISTP - Practical, reserved, with a keen interest in how things work",
+          "cognitiveStyle": "Hands-on, experiential learner who solves problems intuitively",
+          "riskTolerance": "Moderately high - enjoys adventure sports and risky investments",
+          "emotionalReactivity": "Usually calm and stoic, but can be deeply empathetic in times of crisis",
+          "mentalResilience": "Highly resilient, has bounced back from several life challenges"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Participates in the annual town's woodworking festival, showcasing his skill",
+          "languageProficiency": "English",
+          "historicalMilestones": "Witnessed the rejuvenation of the old mill into a community center",
+          "generationalInfluence": "Values the simplicity and hands-on skills of prior generations",
+          "socialEtiquetteNorms": "Believes in a strong handshake and looking people in the eye when speaking"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Widowed 5 years ago",
+          "children": "None",
+          "siblings": "A younger sister, Julia Greene, who lives in the next town over",
+          "parents": "Deceased",
+          "extendedFamily": "Has a close-knit relationship with several cousins in town"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Wants to master traditional carpentry and restoration techniques",
+          "preferredLearningFormat": "Hands-on workshops",
+          "knowledgeDepth": "Deep knowledge in woodworking, moderate knowledge in restoration",
+          "learningResources": "Woodworking magazines, online forums",
+          "certificationsAndDegrees": "College Diploma in Environmental Science"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Woodworking, furniture making, restoring vintage tools",
+          "sportsAndFitness": "Hiking, kayaking, mountain biking",
+          "intellectualPursuits": "Reading historical fiction",
+          "outdoorActivities": "Gardening, specifically native plant gardening",
+          "travel": "Prefers road trips to explore small towns and their craftsmanship"
+        },
+        "mediaConsumption": {
+          "newsSources": "Local newspaper and community bulletin board",
+          "socialMediaPreferences": "Uses social media sparingly, mainly to showcase his woodworking projects",
+          "influencerEngagement": "Follows well-known woodworkers and craftsmen",
+          "mediaFormatPreference": "Prefers print media and live demonstrations",
+          "readingHabits": "Reads daily, mostly magazines and books related to his interests"
+        }
+      },
+      "relationships": [
+        {
+          "name": "Julia Greene",
+          "connection": "Sibling",
+          "details": "Shares a close bond, often collaborates on community projects"
+        },
+        {
+          "name": "Mia Zhang",
+          "connection": "Friend",
+          "details": "Met through the community center's rejuvenation project, often collaborate on environmental initiatives"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC011",
+    "timestamp": "2024-11-06T21:42:13.700112",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2024-11-06",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Oliver Grant",
+          "age": "72",
+          "gender": "Male",
+          "location": "Hillview Lane, Small Town",
+          "countryOfBirth": "United States",
+          "nationality": "American",
+          "ethnicityRace": "Caucasian",
+          "educationLevel": "College Degree",
+          "householdComposition": "Widower, lives alone",
+          "languagesSpoken": [
+            "English"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "5'9\", slightly hunched with age",
+          "distinctiveFeatures": "Full white beard, always wearing a flat cap",
+          "healthConditions": "Arthritis, wears eyeglasses",
+          "mobilityLimitations": "Uses a cane for longer walks",
+          "preferredAttire": "Old flannel shirts, suspenders, and worn-out jeans"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "INTP, curious and analytical but reserved",
+          "cognitiveStyle": "Reflective, enjoys pondering life's mysteries",
+          "riskTolerance": "Low, prefers the safety of routine",
+          "emotionalReactivity": "Stoic, but has a soft spot for animals",
+          "mentalResilience": "High, has endured many of life's trials with quiet strength"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Celebrates traditional American holidays with a particular fondness for Independence Day",
+          "languageProficiency": "Native in English, knows some Spanish from his youth",
+          "historicalMilestones": "Has vivid memories of the moon landing, which he describes with sparkling eyes",
+          "generationalInfluence": "Baby Boomer, values hard work and self-reliance",
+          "socialEtiquetteNorms": "Values politeness, expects younger generations to show respect"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Widowed, speaks lovingly of his late wife, Eleanor",
+          "children": "Two daughters, both live out of state",
+          "siblings": "One brother, estranged",
+          "parents": "Deceased",
+          "extendedFamily": "Rarely mentioned, seems to keep to himself"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Wants to learn more about astronomy",
+          "preferredLearningFormat": "Books",
+          "knowledgeDepth": "Well-read on American history and classical literature",
+          "learningResources": "Local library, owns a small collection of cherished books",
+          "certificationsAndDegrees": "Bachelor's Degree in Mechanical Engineering"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Woodworking, makes small furniture and birdhouses",
+          "sportsAndFitness": "Enjoys watching baseball, was a player in his youth",
+          "intellectualPursuits": "Astronomy, often stargazing with a basic telescope",
+          "outdoorActivities": "Gardening, has a well-kept vegetable garden",
+          "travel": "Visited Europe once, dreams of seeing the Northern Lights"
+        },
+        "mediaConsumption": {
+          "newsSources": "Prefers printed newspapers, distrusts online news",
+          "socialMediaPreferences": "Does not use social media, values privacy",
+          "influencerEngagement": "None",
+          "mediaFormatPreference": "Printed materials, radio for music and news",
+          "readingHabits": "Reads daily, especially in the evenings"
+        }
+      },
+      "relationships": [
+        {
+          "name": "Julia Greene",
+          "relationship": "Old friend, they share gardening tips and occasionally have coffee together"
+        },
+        {
+          "name": "Mia Zhang",
+          "relationship": "Admires her entrepreneurial spirit, buys honey from her beekeeping business"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC012",
+    "timestamp": "2024-11-06T21:42:42.412755",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2024-11-06",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Elijah Bennett",
+          "age": "47",
+          "gender": "Male",
+          "location": "East side of the town, near the old mill",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "Caucasian",
+          "educationLevel": "College degree",
+          "householdComposition": "Lives with spouse and two teenagers",
+          "languagesSpoken": [
+            "English"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "6'2\", Athletic",
+          "distinctiveFeatures": "A large scar on his left forearm from a woodworking accident",
+          "healthConditions": "None",
+          "mobilityLimitations": "None",
+          "preferredAttire": "Flannel shirts and denim, with a baseball cap"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "ESTJ - Practical, traditional, and organized",
+          "cognitiveStyle": "Analytical thinker, prefers structured tasks",
+          "riskTolerance": "Low, prefers safe and traditional paths",
+          "emotionalReactivity": "Stoic, but warm to friends and family",
+          "mentalResilience": "High, very capable of handling stress and challenges"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Engages deeply with local traditions, especially the annual town festival",
+          "languageProficiency": "Native English speaker",
+          "historicalMilestones": "Lived through the town's centennial celebration, deeply values local history",
+          "generationalInfluence": "Values hard work and community, influenced by his parents who were local business owners",
+          "socialEtiquetteNorms": "Believes in strong handshakes, direct eye contact, and punctuality"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Married to Sarah Bennett",
+          "children": "Two children, ages 15 and 17",
+          "siblings": "One older brother, who lives in the neighboring town",
+          "parents": "Both deceased, were prominent figures in the town's community",
+          "extendedFamily": "Has multiple cousins in the town"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Interested in woodworking and history",
+          "preferredLearningFormat": "Hands-on and visual learning",
+          "knowledgeDepth": "Deep knowledge in local history and skilled in carpentry",
+          "learningResources": "Local library and historical society archives",
+          "certificationsAndDegrees": "Bachelor's degree in History"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Woodworking, restores antique furniture",
+          "sportsAndFitness": "Jogs regularly, coaches little league baseball",
+          "intellectualPursuits": "Reading historical novels and biographies",
+          "outdoorActivities": "Camping with family, fishing",
+          "travel": "Prefers historical sites and national parks"
+        },
+        "mediaConsumption": {
+          "newsSources": "Local newspaper, historical documentaries",
+          "socialMediaPreferences": "Minimal social media use, prefers face-to-face interactions",
+          "influencerEngagement": "Not interested",
+          "mediaFormatPreference": "Printed books and live sports broadcasts",
+          "readingHabit": "Reads daily, mostly in the evenings"
+        }
+      },
+      "relationships": [
+        {
+          "relation": "Spouse",
+          "with": "Sarah Bennett"
+        },
+        {
+          "relation": "Friend",
+          "with": "Lucy Harmon"
+        },
+        {
+          "relation": "Acquaintance",
+          "with": "Mia Zhang"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC013",
+    "timestamp": "2024-11-06T21:43:02.647373",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2024-11-06",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Ethan Grant",
+          "age": "45",
+          "gender": "Male",
+          "location": "Main Street, near the old mill",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "Caucasian",
+          "educationLevel": "College Degree",
+          "householdComposition": "Lives alone, frequently visited by his niece and nephew",
+          "languagesSpoken": [
+            "English"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "6'1\", athletic",
+          "distinctiveFeatures": "A large scar on his right forearm from a woodworking accident",
+          "healthConditions": "None",
+          "mobilityLimitations": "None",
+          "preferredAttire": "Casual, often seen in jeans and a flannel shirt"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "Introverted but warm, thoughtful",
+          "cognitiveStyle": "Hands-on and intuitive",
+          "riskTolerance": "Low, prefers a quiet and stable life",
+          "emotionalReactivity": "Generally calm, but sensitive to community issues",
+          "mentalResilience": "High, has dealt with personal loss gracefully"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Participates in local community events and fosters town traditions",
+          "historicalMilestones": "Volunteered in community rebuilding efforts after a major flood a decade ago",
+          "generationalInfluence": "Values the simplicity and community spirit of small-town life",
+          "socialEtiquetteNorms": "Believes strongly in community support and being a good neighbor"
+        },
+        "familyCloseRelationships": {
+          "parents": "Deceased",
+          "extendedFamily": "Has a close relationship with his sister's children, who consider him a second father"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Avid learner of woodworking and historical restoration",
+          "preferredLearningFormat": "Hands-on and workshops",
+          "knowledgeDepth": "Deep knowledge in woodworking and local history",
+          "learningResources": "Local workshops, historical society archives"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Woodworking, especially restoring old furniture",
+          "outdoorActivities": "Fishing in the local river, hiking",
+          "travel": "Rarely travels, prefers staycations and exploring local areas"
+        },
+        "mediaConsumption": {
+          "newsSources": "Local newspaper, town newsletter",
+          "socialMediaPreferences": "Minimal presence, mainly follows local community groups",
+          "readingHabits": "Enjoys reading about history and carpentry"
+        }
+      },
+      "relationships": [
+        {
+          "name": "Julia Greene",
+          "relationship": "Close friend, collaborates on community projects"
+        },
+        {
+          "name": "Mia Zhang",
+          "relationship": "Neighbor, Ethan occasionally helps her with home repairs"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC014",
+    "timestamp": "2024-11-06T21:43:28.274607",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2023-09-15",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Harold Jenkins",
+          "age": "72",
+          "gender": "Male",
+          "location": "Maple Street, Cedarwood",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "Caucasian",
+          "educationLevel": "College degree",
+          "householdComposition": "Lives alone, widowed",
+          "languagesSpoken": [
+            "English (native)"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "5'10, lean",
+          "distinctiveFeatures": "Silver hair, always seen with a flat cap",
+          "healthConditions": "Type 2 Diabetes",
+          "mobilityLimitations": "Mild arthritis",
+          "preferredAttire": "Casual, often in a flannel shirt and suspenders"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "ISTJ - Dependable, practical, quiet",
+          "cognitiveStyle": "Analytical, detail-oriented",
+          "riskTolerance": "Low",
+          "emotionalReactivity": "Stoic, rarely displays strong emotion",
+          "mentalResilience": "High, has been through many of life's up and downs"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Participates in Memorial Day parades, Veteran",
+          "languageProficiency": "English",
+          "historicalMilestones": "Vietnam War veteran",
+          "generationalInfluence": "Baby Boomer",
+          "socialEtiquetteNorms": "Polite, values respect and manners"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Widowed, wife was Mary Jenkins",
+          "children": "Two sons, both living out of state",
+          "siblings": "Younger sister, Betty, lives in the next town over",
+          "parents": "Deceased",
+          "extendedFamily": "Several nieces and nephews, mostly out of state"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Interested in history, especially military history",
+          "preferredLearningFormat": "Books and documentaries",
+          "knowledgeDepth": "Deep knowledge of American and World War II history",
+          "learningResources": "Local library, History Channel",
+          "certificationsAndDegrees": "Bachelor's in History"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Woodworking, birdhouse making",
+          "sportsAndFitness": "Morning walks, fishing",
+          "intellectualPursuits": "History books, crossword puzzles",
+          "outdoorActivities": "Gardening, especially vegetables",
+          "travel": "Visited Europe to tour historical WW2 sites"
+        },
+        "mediaConsumption": {
+          "newsSources": "Local newspaper, National Geographic",
+          "socialMediaPreferences": "None, prefers face-to-face conversation",
+          "influencerEngagement": "None",
+          "mediaFormatPreference": "Print media, television",
+          "readingHabits": "Daily, mostly non-fiction and newspapers"
+        }
+      },
+      "relationships": [
+        {
+          "name": "Julia Greene",
+          "relationship": "Close friend, fellow history enthusiast"
+        },
+        {
+          "name": "Mia Zhang",
+          "relationship": "Neighbor, assists with gardening"
+        }
+      ]
+    }
+  },
+  {
+    "characterId": "TC015",
+    "timestamp": "2024-11-06T21:43:51.494285",
+    "profile": {
+      "fileName": "comprehensive-user-profile-schema.json",
+      "schemaVersion": "1.0",
+      "lastUpdated": "2024-11-06",
+      "userProfile": {
+        "demographicInformation": {
+          "name": "Elijah Moore",
+          "age": "45",
+          "gender": "Male",
+          "location": "Willow Creek, Elderberry County",
+          "countryOfBirth": "USA",
+          "nationality": "American",
+          "ethnicityRace": "African American",
+          "educationLevel": "College degree",
+          "householdComposition": "Single parent, two children",
+          "languagesSpoken": [
+            "English (native)"
+          ]
+        },
+        "physicalCharacteristics": {
+          "heightAndBuild": "6'0, athletic",
+          "distinctiveFeatures": "Tattoo of a willow tree on right arm",
+          "healthConditions": "None",
+          "mobilityLimitations": "None",
+          "preferredAttire": "Jeans and button-down shirts, always with a baseball cap"
+        },
+        "psychologicalCognitiveAspects": {
+          "personalityType": "Extroverted, compassionate, and community-oriented",
+          "cognitiveStyle": "Hands-on and practical",
+          "riskTolerance": "Moderate",
+          "emotionalReactivity": "Calm under pressure",
+          "mentalResilience": "High"
+        },
+        "culturalHistoricalContext": {
+          "culturalTraditions": "Active participant in Juneteenth celebrations",
+          "socialEtiquetteNorms": "Values directness and honesty in communication"
+        },
+        "familyCloseRelationships": {
+          "partnerSpouse": "Widower",
+          "children": "Two daughters, aged 12 and 15",
+          "siblings": "Has a younger sister, Amelia Moore",
+          "parents": "Close to his mother, father passed away"
+        },
+        "learningKnowledgeBuilding": {
+          "learningGoals": "Interested in learning more about renewable energy solutions",
+          "preferredLearningFormat": "Interactive workshops",
+          "knowledgeDepth": "Deep knowledge in automotive repair",
+          "learningResources": "Online courses, forums"
+        },
+        "hobbiesInterests": {
+          "creativeActivities": "Restores classic cars",
+          "sportsAndFitness": "Coaches little league baseball",
+          "intellectualPursuits": "Reading historical non-fiction",
+          "outdoorActivities": "Fishing and camping",
+          "travel": "Loves road trips with his daughters"
+        },
+        "mediaConsumption": {
+          "newsSources": "Local newspaper, automotive blogs",
+          "socialMediaPreferences": "Facebook for community events, Instagram for car restorations",
+          "mediaFormatPreference": "Videos, especially DIY tutorials"
+        }
+      },
+      "relationships": [
+        {
+          "name": "Amelia Moore",
+          "relationship": "Sister"
+        },
+        {
+          "name": "Lucy Harmon",
+          "relationship": "Friend and neighbor"
+        }
+      ]
+    }
+  }
+]
