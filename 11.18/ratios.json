@@ -1,0 +1,62 @@
+{
+    "demographic_information": {
+    "Average": 0.3777,
+    "Std Dev": 0.1443,
+    "avg/stddev": 2.6169
+    },
+    "physical_and_health_characteristics": {
+    "Average": 0.4503,
+    "Std Dev": 0.2182,
+    "avg/stddev": 2.0639
+    },
+    "psychological_and_cognitive_aspects": {
+    "Average": 0.5664,
+    "Std Dev": 0.1855,
+    "avg/stddev": 3.0532
+    },
+    "cultural_and_social_context": {
+    "Average": 0.3673,
+    "Std Dev": 0.1273,
+    "avg/stddev": 2.8841
+    },
+    "relationships_and_social_networks": {
+    "Average": 0.5477,
+    "Std Dev": 0.1676,
+    "avg/stddev": 3.2681
+    },
+    "career_and_work_identity": {
+    "Average": 0.3294,
+    "Std Dev": 0.1457,
+    "avg/stddev": 2.2604
+    },
+    "education_and_learning": {
+    "Average": 0.4153,
+    "Std Dev": 0.1355,
+    "avg/stddev": 3.0644
+    },
+    "hobbies_interests_and_lifestyle": {
+    "Average": 0.5235,
+    "Std Dev": 0.1611,
+    "avg/stddev": 3.2500
+    },
+    "lifestyle_and_daily_routine": {
+    "Average": 0.3820,
+    "Std Dev": 0.2584,
+    "avg/stddev": 1.4780
+    },
+    "core_values_beliefs_and_philosophy": {
+    "Average": 0.5199,
+    "Std Dev": 0.1583,
+    "avg/stddev": 3.2846
+    },
+    "emotional_and_relational_skills": {
+    "Average": 0.4562,
+    "Std Dev": 0.2328,
+    "avg/stddev": 1.9592
+    },
+    "media_consumption_and_engagement": {
+    "Average": 0.3328,
+    "Std Dev": 0.2692,
+    "avg/stddev": 1.2365
+    }
+}

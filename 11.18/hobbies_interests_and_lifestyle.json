@@ -1,0 +1,906 @@
+{
+    "Alexandria Petrov": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly hikes in the Vitosha Mountain",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical fiction and cultural studies",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about organic gardening",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves exploring European historical sites",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Enjoys trying and cooking international cuisines"
+    },
+    "Batbayar Nergüi": {
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys exploring historical sites and learning about different cultures"
+    },
+    "Arianne Chin": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys watercolor painting as a hobby",
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes a personal blog about sustainable living",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly goes jogging in local parks",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of science fiction and environmental literature",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Learning to play the ukulele",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Cultivates a small herb garden on her balcony",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Loves experimenting with Asian and Caribbean fusion recipes",
+        "hobbies_interests_and_lifestyle.social_entertainment.cultural_festivals": "Regularly attends local cultural festivals",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local community center"
+    },
+    "Chloé Desiré": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes and local scenes",
+        "hobbies_interests_and_lifestyle.creative_arts.crafts_and_diy": "Interested in making eco-friendly crafts",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Loves hiking in the local national parks",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga for relaxation and flexibility",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Particularly enjoys fantasy novels and poetry",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Learning how to cultivate native plants",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about growing herbs and vegetables",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.environmental_conservation": "Volunteers for beach clean-ups",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Loves experimenting with Caribbean recipes",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Enjoys trying new cuisines with friends",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Involved in local environmental education programs",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.activism": "Active in climate change awareness initiatives",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation to manage stress",
+        "hobbies_interests_and_lifestyle.personal_development.personal_growth": "Focuses on self-reflection and learning from experiences",
+        "hobbies_interests_and_lifestyle.fashion_and_personal_style.fashion_preferences": "Embraces vibrant, culturally inspired fashion"
+    },
+    "Tama Ngatama": {
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Cultivates traditional Polynesian plants and medicinal herbs",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys visiting other Polynesian islands to connect with cultural roots",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passion for traditional Polynesian cuisine and sharing it with family"
+    },
+    "Sione Vaiangina": {
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regular morning runs on the beach",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys historical fiction and social sciences",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Organizes family camping trips",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Involved in local youth mentorship programs"
+    },
+    "Koffi Ahouansou": {
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys cooking traditional Beninese dishes and experimenting with fusion recipes.",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves visiting historical sites and learning about different cultures, particularly within Africa."
+    },
+    "Mamadou Diallo": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays kora and enjoys traditional music",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Prefers walking and light exercise",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys historical novels and educational texts",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small garden, grows herbs and vegetables",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Interested in visiting historical sites and learning about different cultures"
+    },
+    "Hadiza Aliyu": {
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about cooking traditional Hausa dishes and experimenting with spices",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys traveling to nearby regions to explore cultural festivals and local traditions"
+    },
+    "María Fernanda López García": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes short stories and is working on a historical fiction novel",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga regularly for mental clarity and physical health",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys reading historical fiction and contemporary Latin American authors",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Tends a small garden, growing herbs and native plants",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Explores traditional Nicaraguan recipes and international cuisines",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local literacy program for underprivileged children"
+    },
+    "Alexandru Druta": {
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about traditional Moldovan cooking, often experimenting with new recipes."
+    },
+    "Alexis Montalván": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Occasionally sketches landscapes",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys morning runs in the park",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical novels and biographies",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Family camping trips twice a year",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves exploring ancient ruins and cultural sites",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys experimenting with traditional Honduran recipes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local food bank"
+    },
+    "Kadiatu Kamara": {
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys early morning jogs along the beach and participates in community group fitness",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about cooking, often experimenting with traditional Sierra Leonean recipes and healthy alternatives",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Actively involved in local community service, focusing on women's education and empowerment"
+    },
+    "Mamadou Bah": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting and digital illustration",
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays the djembe, a traditional African drum",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.sports_participation": "Occasionally plays soccer with friends",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys historical fiction and cultural studies",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.science_and_tech": "Interested in the intersection of technology and culture",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Finds peace in nature, often hikes in nearby forests",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Dreams of traveling to other African countries to learn about diverse art forms",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Loves experimenting with traditional and modern Guinean recipes",
+        "hobbies_interests_and_lifestyle.social_entertainment.social_gatherings": "Enjoys community events and gatherings with friends",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Cares for a family cat named Kadi",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in local youth cultural programs",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices mindfulness and meditation for personal growth"
+    },
+    "Aibek Tursunov": {
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about growing vegetables and flowers",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Organizes local cultural events",
+        "hobbies_interests_and_lifestyle.social_entertainment.cultural_festivals": "Enjoys participating and organizing traditional festivals"
+    },
+    "Lagi Fetu": {
+        "hobbies_interests_and_lifestyle.creative_arts.performing_arts": "Participates in traditional Tokelauan dance and music",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys jogging and beach volleyball",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in local environmental conservation efforts"
+    },
+    "Andrea Meier": {
+        "hobbies_interests_and_lifestyle.creative_arts.crafts_and_diy": "Enjoys knitting and quilting",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical novels and biographies",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about flower gardening",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves visiting museums and historical sites",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys cooking traditional European dishes"
+    },
+    "Ana Sofía Martínez": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": [
+            "Painting landscapes"
+        ],
+        "hobbies_interests_and_lifestyle.creative_arts.crafts_and_diy": [
+            "Creating handmade gifts"
+        ],
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": [
+            "Walking, jogging in local parks"
+        ],
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": [
+            "Enjoys contemporary literature and historical novels"
+        ],
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Grows herbs and flowers in her backyard",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves visiting historical sites across Central America",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about traditional Honduran cuisine",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Organizes educational workshops for local youth",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Cares for a rescued dog and a cat"
+    },
+    "Ethel Bodden": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys watercolor painting",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices gentle yoga for flexibility",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Loves historical novels and biographies",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.puzzles_and_games": "Enjoys crosswords and Sudoku",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about her flower garden",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Visits museums and historical sites",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Cooks traditional Caribbean dishes",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Cares for her dog, regularly volunteers at animal shelters",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in local charity events",
+        "hobbies_interests_and_lifestyle.personal_development.spiritual_practices": "Attends church regularly, meditates",
+        "hobbies_interests_and_lifestyle.fashion_and_personal_style.fashion_preferences": "Appreciates vintage style with a modern twist"
+    },
+    "Arjun Patel": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Occasional sketching",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys morning runs",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Interested in exploring historical sites",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local coding program for youth"
+    },
+    "Mikkel Jensen": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays guitar, enjoys composing music",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys running and cycling along Copenhagen's scenic routes",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of science fiction and philosophical texts",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Interested in exploring European cities and their histories",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at local tech workshops for underprivileged youth"
+    },
+    "Jordan Quinn": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys watercolor painting",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly goes hiking",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Reads historical fiction and financial literature",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small urban garden",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Travels to explore art museums and historical sites",
+        "hobbies_interests_and_lifestyle.food_exploration": "Enjoys trying new cuisines and cooking with his spouse",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Has a Labrador retriever",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local food bank"
+    },
+    "Olav Larsen": {
+        "hobbies_interests_and_lifestyle": {
+            "creative_arts": {
+                "visual_arts": "Enjoys watercolor painting as a hobby",
+                "music": "Plays the piano casually at home"
+            },
+            "sports_and_fitness": {
+                "outdoor_fitness": "Walks daily in the nearby park"
+            },
+            "intellectual_pursuits": {
+                "reading": "Reads historical novels and biographies"
+            },
+            "outdoor_and_nature_activities": {
+                "hiking_camping": "Occasional short hikes with family",
+                "gardening": "Tends to a small vegetable garden"
+            },
+            "travel_and_exploration": {
+                "cultural_exploration": "Enjoys visiting art museums and historical sites"
+            },
+            "cooking_and_culinary_interests": {
+                "cooking": "Enjoys experimenting with traditional Norwegian recipes"
+            },
+            "volunteer_and_social_impact": {
+                "community_service": "Volunteers at the local community center"
+            },
+            "personal_development": {
+                "mindfulness_meditation": "Practices mindfulness to maintain mental clarity"
+            }
+        }
+    },
+    "Fatima Mahamat": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes",
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes poetry and short stories",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.sports_participation": "Occasionally participates in community soccer games",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys morning walks",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical and cultural books",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Interested in learning digital storytelling",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves exploring local cultural sites and festivals",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about traditional Chadian cuisine",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in local women's empowerment groups",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness/meditation": "Practices meditation for stress relief",
+        "hobbies_interests_and_lifestyle.personal_development.spiritual_practices": "Regularly attends mosque and engages in spiritual reflection"
+    },
+    "Kadiatou Camara": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga for relaxation",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical and cultural books",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Tends a small vegetable garden",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about cooking traditional Guinean dishes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers in local health camps and educational drives"
+    },
+    "Lukas Müller": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Occasionally sketches landscapes as a hobby",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly goes for runs and cycling",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys reading science fiction and tech-related non-fiction",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Passionate about hiking, explores the Swiss Alps frequently",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys traveling to experience new cultures, often visits historical sites",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Loves trying new cuisines, especially Asian and Mediterranean"
+    },
+    "Amar Kovačević": {
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Passion for visiting historical sites across Europe"
+    },
+    "Anabela Mavundza": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly practices jogging in local parks",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys reading historical novels",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a vibrant home garden",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Experiments with traditional Mozambican recipes",
+        "hobbies_interests_and_lifestyle.social_entertainment.cultural_festivals": "Attends annual cultural festivals",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Cares for a family dog"
+    },
+    "Altynai Zholdoshbek": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays the komuz and piano",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys morning runs in the nearby parks",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Favors contemporary novels and psychology texts",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Frequently hikes in the Ala-Too mountains",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves exploring Kyrgyzstan's cultural heritage sites",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Enjoys trying new recipes and fusion cuisines",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local community center for children",
+        "hobbies_interests_and_lifestyle.personal_development.spiritual_practices": "Practices meditation and yoga"
+    },
+    "Khaled Al-Masri": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes articles and essays on cultural history",
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Enjoys traditional Arabic music and plays the oud",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Daily walks in the park",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical texts and literature",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Occasionally hikes in the nearby mountains",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Tends to a small vegetable garden",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys visiting historical sites",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Loves cooking traditional Syrian dishes",
+        "hobbies_interests_and_lifestyle.collecting.art_or_antiques": "Collects Middle Eastern art and antiques",
+        "hobbies_interests_and_lifestyle.social_entertainment.cultural_festivals": "Participates in local cultural festivals",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in local community service initiatives",
+        "hobbies_interests_and_lifestyle.personal_development.spiritual_practices": "Regularly practices prayer and meditation",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Cares for a Persian cat"
+    },
+    "Jean-Luc Desmarais": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Enjoys playing the steel drum and attending local music festivals",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about Creole cooking, often hosts family dinners",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in organizing cultural events to promote local heritage"
+    },
+    "Malia Fainga": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys traditional tapa cloth painting",
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes poetry in Wallisian language",
+        "hobbies_interests_and_lifestyle.creative_arts.crafts_and_diy": "Makes handwoven baskets for the local market",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Reads historical novels and local folklore",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Learning basic computer skills from her grandchildren",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Tends to a small vegetable garden",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.wildlife_observation": "Enjoys birdwatching in her backyard",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Visited Tahiti and New Caledonia to connect with broader Polynesian culture",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Loves to cook traditional Wallisian dishes for family gatherings",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.baking": "Bakes bread and pastries for church events",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at the local church and helps organize community feasts",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.activism": "Advocates for the preservation of Wallisian language and culture",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices daily prayer and meditation as a form of spiritual mindfulness",
+        "hobbies_interests_and_lifestyle.personal_development.spiritual_practices": "Active participant in Catholic Mass and community spiritual events",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Cares for a small flock of chickens"
+    },
+    "Fátimata Zongo": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes short stories and essays inspired by local folklore and modern issues",
+        "hobbies_interests_and_lifestyle.creative_arts.crafts_and_diy": "Enjoys creating bead jewelry and handcrafted decorations",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly jogs in local parks and participates in community fitness events",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of African literature and global history",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Currently learning digital photography",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking/camping": "Enjoys weekend hiking trips in nearby nature reserves",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Travels to neighboring countries to explore cultural heritage and traditions",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Loves experimenting with traditional Burkinabé recipes and fusion dishes",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Enjoys trying new cuisines and street foods during her travels",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Actively volunteers in literacy programs and women's shelters",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness/meditation": "Practices meditation daily for mental clarity and peace",
+        "hobbies_interests_and_lifestyle.personal_development.spiritual_practices": "Participates in local spiritual gatherings and rituals"
+    },
+    "Rajiv Sitaldin": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays guitar in a local band",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys weekend cycling trips",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Favors historical fiction and tech journals",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Regularly hikes with family in the nearby rainforest",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Passionate about exploring South American cultures",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Loves experimenting with fusion dishes",
+        "hobbies_interests_and_lifestyle.social_entertainment.cultural_festivals": "Attends annual cultural festivals in Suriname"
+    },
+    "Valentín Arancibia": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes during weekends",
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays guitar in a local band",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly goes jogging in local parks",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga for relaxation and flexibility",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys reading science fiction and design magazines",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Exploring digital illustration techniques",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Loves weekend hikes in the Andes",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Interested in exploring European art museums",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys experimenting with traditional Argentine recipes",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Cares deeply for his two cats",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local animal shelter",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation for personal growth"
+    },
+    "Peeter Tamme": {
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical fiction and environmental science literature",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys cooking traditional Estonian dishes, experimenting with healthier options"
+    },
+    "Aminata Diallo": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting and drawing",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Likes jogging in local parks",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga/pilates": "Practices yoga for relaxation",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Passionate about reading novels and biographies",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking/camping": "Occasionally goes hiking with friends",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Interested in traveling to learn about different cultures",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys experimenting with traditional recipes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at local community centers",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness/meditation": "Practices meditation for mental clarity",
+        "hobbies_interests_and_lifestyle.personal_development.spiritual_practices": "Engages in spiritual practices rooted in family traditions"
+    },
+    "Alex Morgan": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys watercolor painting",
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes essays and memoirs",
+        "hobbies_interests_and_lifestyle.creative_arts.crafts_and_diy": "Builds model ships",
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays the piano",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Walks daily in the park",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Voracious reader, particularly history and fiction",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.puzzles_and_games": "Enjoys crossword puzzles",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Loves camping with family",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys cooking Italian cuisine",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Adventurous eater, tries new cuisines",
+        "hobbies_interests_and_lifestyle.social_entertainment.live_shows": "Attends local theater productions",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Dotes on his dog, Max",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local food bank",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation regularly"
+    },
+    "Ana María Rodríguez": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Passionate about painting and drawing, often explores new styles",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.sports_participation": "Enjoys playing volleyball with friends",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Reads a variety of genres, enjoys fiction and biographies",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Finds relaxation in tending to her small balcony garden",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves exploring local cultural sites and learning about history",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys cooking traditional Dominican dishes and experimenting with international recipes",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.dog_cat_walking": "Frequently walks neighborhood dogs for extra income",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local youth art program",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation to maintain focus and mental well-being",
+        "hobbies_interests_and_lifestyle.fashion_and_personal_style.trends_and_innovation": "Keeps up with fashion trends, enjoys personalizing her outfits"
+    },
+    "Fatimah Al-Qadiri": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting and digital art",
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes articles on art and culture for local publications",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga weekly for mental clarity",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical novels and art criticism",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Currently learning digital photography",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small herb garden on her balcony",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.environmental_conservation": "Supports local environmental initiatives",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Travels to explore art museums and historical sites",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about cooking traditional Kuwaiti dishes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local art education program for children",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Incorporates daily meditation into her routine for stress management"
+    },
+    "Nalini Persaud": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays the guitar and enjoys composing music",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys jogging in the local park and occasional hiking",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Passionate about fiction and cultural history books",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Gardens with her mother, focusing on herbs and flowers",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Interested in exploring Caribbean and South American cultures",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Loves experimenting with traditional and international cuisines",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at local youth centers and cultural events"
+    },
+    "Oskar Larsen": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys photography, particularly landscapes",
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays acoustic guitar, enjoys folk music",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regular hiker, enjoys exploring trails around Bouvet Island",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader, enjoys science fiction and history",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Currently learning to code",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Frequent camper, enjoys the solitude of nature",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Interested in Asian cultures, plans to travel to Japan",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Enjoys experimenting with international cuisines",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation regularly for focus and clarity"
+    },
+    "Akseli Väinö": {
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Enjoys maintaining a small vegetable garden",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves exploring European cities and their histories",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about traditional Finnish cuisine",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local food bank",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices mindfulness meditation daily"
+    },
+    "Alexandre Larcher": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes essays on education and social issues in local publications",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga for relaxation and stress relief",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Tends to a small garden, enjoys growing local herbs and spices",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys traveling to understand different cultures, recently visited Brazil",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Passionate about trying new cuisines and integrating them into family meals",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in community service, particularly focused on educational outreach"
+    },
+    "François Houngbédji": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes",
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays the djembe, listens to jazz and Afrobeat",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regular jogger, participates in community runs",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys historical fiction and biographies",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Travels to learn about different cultures",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about traditional Beninese cuisine",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at local youth centers",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Daily meditation practice",
+        "hobbies_interests_and_lifestyle.fashion_and_personal_style.fashion_preferences": "Blends traditional and modern attire"
+    },
+    "Alexios Papadimitriou": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays the guitar, enjoys classical and folk music",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly jogs in the local park",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys historical biographies and science fiction",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Passionate about hiking, often plans family trips to the mountains",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves exploring historical sites and learning about different cultures",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys cooking Mediterranean dishes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local food bank on weekends"
+    },
+    "Julien Duval": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes poetry and short stories as a form of personal expression",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys hiking and cycling in the natural landscapes of French Guiana",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Passionate about exploring indigenous cultures and histories",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Enjoys experimenting with fusion cuisine, blending local and international flavors"
+    },
+    "Ari Kauri": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Passionate about writing fiction and essays",
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays the guitar and enjoys folk music",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys jogging and yoga in the park",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader, especially enjoys historical fiction and philosophy",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Regularly hikes in nearby national parks",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves exploring indigenous cultures and history",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Enjoys experimenting with fusion recipes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers for local cultural heritage organizations",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Daily practitioner of meditation and mindfulness"
+    },
+    "Amidou Ahouandjinou": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays the kora, a traditional African instrument, as a form of relaxation",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga/pilates": "Practices yoga for mental clarity and physical health",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys reading historical biographies and postcolonial literature",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about growing indigenous plants and herbs",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Travels across West Africa for cultural research and family visits"
+    },
+    "Manuel da Costa": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Enjoys traditional Timorese music and occasionally plays the guitar.",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about gardening, particularly growing local herbs and vegetables.",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Loves cooking traditional dishes, often sharing meals with family and friends.",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in local volunteer efforts, focusing on education and youth programs.",
+        "hobbies_interests_and_lifestyle.personal_development.spiritual_practices": "Practices meditation and participates in local spiritual gatherings."
+    },
+    "Ana do Espírito Santo": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Enjoys traditional Santomean music and plays the guitar",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Loves hiking and nature walks during weekends",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical fiction and cultural anthologies",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small herb and vegetable garden",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Passionate about exploring other African cultures through travel",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Enjoys experimenting with traditional recipes and international cuisines",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local literacy program for children",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation regularly for mental clarity"
+    },
+    "Mélodie Laurent": {
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Passionate about exploring Caribbean and global cuisines, often experimenting with fusion recipes",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys traveling to immerse herself in different cultures, often focusing on local art and history"
+    },
+    "Ixel Amador": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes and local scenes",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga/pilates": "Practices yoga weekly for flexibility and stress relief",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Passionate reader of historical novels and educational theory",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a vegetable garden",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves visiting historical sites both locally and abroad",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys cooking traditional Honduran dishes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Regularly volunteers at local schools and churches",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness/meditation": "Practices meditation daily"
+    },
+    "Maria Fernandes da Silva": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes and cityscapes",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Loves morning walks on Copacabana Beach",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Reads novels and biographies, particularly enjoys Brazilian literature",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small herb garden at home",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about cooking traditional Brazilian dishes",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Travels to explore Brazilian cultural heritage sites",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local food bank",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation daily to manage stress"
+    },
+    "Callum Le Page": {
+        "hobbies_interests_and_lifestyle": {
+            "creative_arts": {
+                "visual_arts": "Enjoys sketching landscapes",
+                "music": "Plays the guitar, enjoys folk and indie music"
+            },
+            "sports_and_fitness": {
+                "outdoor_fitness": "Regularly goes hiking and cycling"
+            },
+            "intellectual_pursuits": {
+                "reading": "Enjoys reading non-fiction, particularly on history and psychology"
+            },
+            "outdoor_and_nature_activities": {
+                "gardening": "Passionate about organic gardening"
+            },
+            "travel_and_exploration": {
+                "cultural_exploration": "Loves exploring historical sites and learning about local customs"
+            },
+            "cooking_and_culinary_interests": {
+                "cooking": "Enjoys cooking with fresh, local ingredients, often experimenting with new recipes",
+                "food_exploration": "Loves trying new cuisines and visiting farmers' markets"
+            },
+            "animal_and_pet_interests": {
+                "pet_care": "Devoted to his cat, often volunteers at local animal shelters"
+            },
+            "volunteer_and_social_impact": {
+                "community_service": "Active in organizing local clean-up drives"
+            },
+            "personal_development": {
+                "mindfulness_meditation": "Practices daily meditation for mental clarity and peace"
+            }
+        }
+    },
+    "Aigul Zhanayeva": {
+        "hobbies_interests_and_lifestyle.creative_arts.crafts_and_diy": "Enjoys embroidery and crafting traditional Kazakh patterns.",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small vegetable and flower garden.",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves visiting historical sites within Kazakhstan.",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about preparing traditional Kazakh dishes."
+    },
+    "Nikolay Petrova": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Enjoys writing technical articles for industry journals",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly goes biking and jogging in the nearby Vitosha mountain",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical fiction and technology journals",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Frequently hikes with family, values time in nature",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Passionate about exploring European cities and their history",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys cooking traditional Bulgarian dishes and experimenting with international cuisines",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at local community centers, teaching computer skills to seniors",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation daily to enhance focus and reduce stress"
+    },
+    "Jayson Adisa": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes tech blogs and short stories",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga thrice weekly for mental clarity",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys reading science fiction and technology journals",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Travels with family to explore historical sites",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Loves trying new cuisines and experimenting with recipes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at local tech workshops for youth"
+    },
+    "Kaelani Uluwehi": {
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about growing native plants and creating sustainable gardens",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in organizing beach clean-ups and educational workshops for local youth"
+    },
+    "Alma Kodra": {
+        "hobbies_interests_and_lifestyle": {
+            "outdoor_and_nature_activities": {
+                "hiking_camping": "Enjoys weekend hikes in the nearby mountains"
+            },
+            "cooking_and_culinary_interests": {
+                "cooking": "Passionate about experimenting with Mediterranean recipes"
+            },
+            "travel_and_exploration": {
+                "cultural_exploration": "Enjoys visiting historical sites and learning about different cultures"
+            }
+        }
+    },
+    "Manu Feletoa": {
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Enjoys hiking and exploring local trails with family",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about traditional Polynesian cooking"
+    },
+    "Oleksandr Petrovych": {
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys cycling and weekend hikes",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Passionate about visiting historical sites and learning about different cultures"
+    },
+    "Luca D'Angelo": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Occasionally sketches landscapes",
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays guitar in a local band",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys hiking local trails",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys science fiction and technology books",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves visiting historical sites across Europe",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passion for Italian cooking, often hosts dinner parties",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local tech education charity",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices mindfulness to maintain mental clarity"
+    },
+    "Luca Bianchi": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays guitar, involved in local band",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.sports_participation": "Plays soccer with friends on weekends",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys reading fantasy novels",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Loves weekend hiking trips",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys traveling to explore different music scenes",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Adventurous eater, loves trying new cuisines",
+        "hobbies_interests_and_lifestyle.social_entertainment.live_shows": "Regularly attends live concerts",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation for relaxation",
+        "hobbies_interests_and_lifestyle.fashion_and_personal_style.fashion_preferences": "Trendy, enjoys streetwear fashion"
+    },
+    "Saule Nurmukhambetova": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys sketching landscapes and traditional Kazakh motifs",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga for flexibility and mental clarity",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical novels and educational theory",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small vegetable garden, finds peace in nurturing plants",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves exploring historical sites and learning about different cultures",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about cooking traditional Kazakh dishes and trying international recipes",
+        "hobbies_interests_and_lifestyle.collecting.art_or_antiques": "Collects traditional Kazakh crafts and antiques",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in local community service, particularly in education initiatives",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Engages in meditation for mental well-being and emotional balance"
+    },
+    "Amir Khalifa": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Occasionally sketches landscapes",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga for relaxation",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys reading non-fiction and historical novels",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Interested in exploring Middle Eastern and Asian cultures",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Loves experimenting with new recipes, especially Asian cuisine",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers for local environmental initiatives"
+    },
+    "João Miguel Pereira": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys photography, capturing landscapes and cultural events",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly participates in weekend hiking trips",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Reads extensively on history and cultural narratives",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small garden, growing vegetables and herbs",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves exploring historical sites and learning about different cultures",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about experimenting with Angolan and global cuisines",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local shelter, organizing food drives and support activities",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness/meditation": "Practices meditation regularly for mental clarity and stress management",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Takes care of a family dog, enjoying the companionship and outdoor activities"
+    },
+    "Andrea Salazar": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys watercolor painting in her free time",
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes a personal blog on sustainable living",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.sports_participation": "Plays tennis on weekends",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical fiction",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Learning French",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Loves hiking in the Andes",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Travels to explore indigenous cultures",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about cooking traditional Ecuadorian dishes"
+    },
+    "Alexandre Benjamin": {
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys experimenting with local ingredients to create fusion dishes",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Finds solace in tending to a small vegetable and herb garden"
+    },
+    "Kamau Njeri": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Enjoys playing the guitar and traditional music instruments",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly goes for morning runs and weekend hikes",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical fiction and tech journals",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about gardening, grows vegetables and flowers at home",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves exploring different Kenyan cultural sites and international destinations",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys cooking traditional Kikuyu dishes for family gatherings"
+    },
+    "Peeter Saar": {
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Tends to a small balcony garden with a variety of herbs and flowers."
+    },
+    "Jaanika Õunapuu": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Passionate about painting and ceramics, often integrates cultural themes into her work.",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga regularly for physical and mental balance.",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader, enjoys historical novels and biographies.",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Finds peace in her garden, growing a variety of flowers and herbs.",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys traveling to explore different cultures and historical sites, recently visited Italy and Greece.",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in community service, particularly in arts education for underprivileged youth."
+    },
+    "Nzeyimana Mirembe": {
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys experimenting with traditional Burundian recipes and fusion dishes"
+    },
+    "Jamila Lake": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical novels and biographies",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about cultivating a home garden",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.travel_with_family_friends": "Enjoys traveling to explore new cultures with family",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Loves experimenting with Caribbean and Mediterranean cuisines",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Actively volunteers at local shelters and charity events"
+    },
+    "Maria Elisabetta Rossi": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys watercolor painting, often inspired by religious themes and local landscapes.",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga regularly to maintain flexibility and manage arthritis.",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Voracious reader, with a particular interest in historical biographies and philosophical texts.",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Finds peace in tending to her small garden, growing herbs and flowers.",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Actively volunteers at her local soup kitchen and organizes educational workshops for underprivileged youth."
+    },
+    "Ayu Kadir": {
+        "hobbies_interests_and_lifestyle": {
+            "creative_arts": {
+                "visual_arts": "Enjoys painting traditional motifs",
+                "music": "Plays the ukulele, enjoys traditional Malay music"
+            },
+            "sports_and_fitness": {
+                "yoga_pilates": "Practices yoga for relaxation and balance"
+            },
+            "intellectual_pursuits": {
+                "reading": "Enjoys historical fiction and cultural studies"
+            },
+            "outdoor_and_nature_activities": {
+                "gardening": "Grows herbs and local plants in her garden"
+            },
+            "travel_and_exploration": {
+                "cultural_exploration": "Interested in exploring Southeast Asian cultures"
+            },
+            "cooking_and_culinary_interests": {
+                "cooking": "Passionate about traditional Malay cuisine"
+            },
+            "volunteer_and_social_impact": {
+                "community_service": "Volunteers at local cultural festivals"
+            },
+            "personal_development": {
+                "mindfulness_meditation": "Regular practice for personal peace"
+            },
+            "fashion_and_personal_style": {
+                "fashion_preferences": "Prefers traditional attire with a modern twist"
+            }
+        }
+    },
+    "Kaveeze Uutoni": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys sketching landscapes",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly jogs in the mornings",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys visiting historical sites",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers in environmental conservation projects"
+    },
+    "Ahsan Jahan": {
+        "hobbies_interests_and_lifestyle.creative_arts.crafts_and_diy": "Enjoys woodworking and making small furniture pieces",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of historical non-fiction and cultural literature",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about gardening, grows vegetables and flowers",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Loves cooking traditional Bengali dishes, enjoys hosting family meals",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local charity for underprivileged children"
+    },
+    "Fatmata Kamara": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.sports_participation": "Participates in local netball team",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Voracious reader of African literature",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking/camping": "Occasional hiking trips with friends"
+    },
+    "Ibrahima Diallo": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Enjoys writing essays on socio-economic issues",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly jogs and participates in local football matches",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of history and political biographies",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small garden at home, finds peace in nurturing plants",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Travels to explore cultural heritage sites within Africa",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about cooking traditional Guinean dishes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers in educational programs for underprivileged youth",
+        "hobbies_interests_and_lifestyle.personal_development.spiritual_practices": "Practices mindfulness and follows spiritual teachings for personal growth"
+    },
+    "Jean-Pierre Mbokani": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys sketching landscapes",
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays the guitar occasionally",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly goes for morning jogs",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga for relaxation",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys historical novels and biographies",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Interested in learning photography",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small vegetable garden",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Visits cultural sites within Africa",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Loves experimenting with traditional recipes"
+    },
+    "Abdullah Al-Mansoori": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes articles on economic policies for local newspapers",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Enjoys maintaining a small garden of native plants",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Travels to historical sites and cultural festivals across the Middle East",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Active in local initiatives focused on youth education and empowerment"
+    },
+    "Alessandro Terenzi": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Passionate about painting and digital illustration",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga/pilates": "Practices yoga twice a week for physical and mental balance",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys reading fantasy novels and design-related books",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking/camping": "Regularly hikes in the nearby Apennine Mountains",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Travels to experience art and culture, especially enjoys visiting museums",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys experimenting with Mediterranean recipes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local youth art program"
+    },
+    "Mwansa Lungu": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes short stories inspired by local folklore",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of African literature and historical novels",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about growing vegetables and flowers in her garden",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers in a literacy program for underprivileged children"
+    },
+    "Ayaan Warsame": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Enjoys writing poetry and short stories that express her emotions",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Engages in jogging and yoga for health and mindfulness",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Passionate reader of novels and historical texts",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Interested in learning new languages",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Occasionally goes camping with family",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Dreams of traveling to learn about other cultures",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Loves trying new recipes and sharing meals with family",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Regularly volunteers at a local children's charity",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.activism": "Engages in advocacy for women's education",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation for emotional balance",
+        "hobbies_interests_and_lifestyle.personal_development.spiritual_practices": "Devout in daily prayers and spiritual reflection",
+        "hobbies_interests_and_lifestyle.lifestyle_and_daily_routine.morning_and_evening_routines": "Starts her day with meditation and ends with reading",
+        "hobbies_interests_and_lifestyle.lifestyle_and_daily_routine.sleep_patterns": "Tries to maintain a consistent sleep schedule, values rest",
+        "hobbies_interests_and_lifestyle.lifestyle_and_daily_routine.dietary_patterns": "Follows a balanced diet with a preference for traditional Somali dishes"
+    },
+    "Kalev Saar": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Enjoys writing essays on cultural identity and history",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "An avid reader of historical novels and philosophical texts",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Passionate about traveling to explore historical sites and cultural landscapes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local cultural heritage organization"
+    },
+    "Sipho Dlamini": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes poetry reflecting on nature and cultural identity",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys trail running and cycling",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Reads African literature and environmental journals",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small vegetable garden at home",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.eco_tourism": "Passionate about visiting eco-friendly destinations",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers for local environmental clean-ups",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices daily meditation for mental clarity",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Cares for a pet dog named Zulu"
+    },
+    "Alexis Tupiza": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys painting landscapes",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga twice a week",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys Latin American literature",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Tends to a small vegetable garden",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves visiting historical sites across Ecuador",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Passionate about traditional Ecuadorian dishes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local food bank"
+    },
+    "Taleh Gurbanov": {
+        "hobbies_interests_and_lifestyle.creative_arts.visual_arts": "Enjoys photography as a hobby",
+        "hobbies_interests_and_lifestyle.creative_arts.crafts_and_diy": "Occasionally engages in woodworking projects",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Regularly jogs in local parks",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys historical and science fiction novels",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.learning_new_skills": "Learning Spanish",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small vegetable garden",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys traveling to historical sites",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Loves experimenting with traditional Azerbaijani recipes",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local food bank",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.activism": "Supports environmental conservation efforts",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation regularly",
+        "hobbies_interests_and_lifestyle.personal_development.spiritual_practices": "Engages in spiritual practices, values reflection"
+    },
+    "Liam Christian Adams": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Passionate about writing fiction and poetry, often explores themes of nature and human connection.",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys running and cycling along the island's scenic trails.",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader, enjoys both classic literature and contemporary novels.",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking_camping": "Regularly embarks on hiking trips, finding solace in nature's tranquility.",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Loves traveling to immerse in different cultures, recently visited Japan for a cultural exchange program.",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys experimenting with local ingredients and fresh produce, often cooking for friends and family.",
+        "hobbies_interests_and_lifestyle.social_entertainment.live_shows": "Frequently attends live music events and local theater performances."
+    },
+    "Emma Carter": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes short stories in her spare time, exploring themes of identity and belonging",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga regularly for relaxation and health",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys contemporary fiction and historical biographies",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small herb and flower garden, finds it therapeutic",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys visiting European cities, interested in art and history",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.baking": "Loves experimenting with baking, especially bread and pastries",
+        "hobbies_interests_and_lifestyle.social_entertainment.live_shows": "Attends local theater productions and live music events",
+        "hobbies_interests_and_lifestyle.animal_and_pet_interests.pet_care": "Cares for a family dog, enjoys taking long walks",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at the local library, organizing reading sessions for children"
+    },
+    "Alexei Mikhailov": {
+        "hobbies_interests_and_lifestyle.creative_arts.writing": "Writes short stories as a form of self-expression and reflection",
+        "hobbies_interests_and_lifestyle.sports_and_fitness.yoga_pilates": "Practices yoga weekly for mental clarity and physical fitness",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Enjoys reading classic literature and modern science fiction",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small balcony garden with herbs and succulents",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Passionate about exploring historical sites and learning about different cultures",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys experimenting with traditional Russian recipes and international cuisines",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at a local community center teaching coding to teenagers"
+    },
+    "Vincent Browne": {
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys hiking and beach walking with family during weekends",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Passionate about visiting historical sites and learning about different cultures"
+    },
+    "Susan Aroi": {
+        "hobbies_interests_and_lifestyle.creative_arts.music": "Plays ukulele, enjoys singing",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.hiking/camping": "Loves hiking and exploring local trails",
+        "hobbies_interests_and_lifestyle.social_entertainment.cultural_festivals": "Regularly attends and volunteers at local cultural festivals"
+    },
+    "Liam White": {
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys hiking and exploring the unique Antarctic landscape when weather permits.",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Avid reader of science fiction and historical novels, often seeking to understand complex narratives."
+    },
+    "Maria Sablan": {
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys cooking traditional Chamorro dishes for family gatherings",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Maintains a small garden with native plants and herbs",
+        "hobbies_interests_and_lifestyle.volunteer_and_social_impact.community_service": "Volunteers at the local library and participates in cultural events",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices meditation and prayer as part of her daily routine"
+    },
+    "Soudalath Phouangphet": {
+        "hobbies_interests_and_lifestyle.sports_and_fitness.outdoor_fitness": "Enjoys walking and cycling with family",
+        "hobbies_interests_and_lifestyle.intellectual_pursuits.reading": "Loves historical fiction and educational literature",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Explores traditional Lao recipes and Asian cuisines"
+    },
+    "Mokele Lulua": {
+        "hobbies_interests_and_lifestyle.creative_arts.crafts_and_diy": "Enjoys woodworking and creating traditional crafts",
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about growing vegetables and local plants",
+        "hobbies_interests_and_lifestyle.travel_and_exploration.cultural_exploration": "Enjoys visiting historical sites and learning about different cultures"
+    },
+    "Faleolo Pulu": {
+        "hobbies_interests_and_lifestyle.outdoor_and_nature_activities.gardening": "Passionate about growing traditional Niuean plants and vegetables",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.cooking": "Enjoys preparing traditional Pacific dishes for family gatherings",
+        "hobbies_interests_and_lifestyle.cooking_and_culinary_interests.food_exploration": "Explores new recipes that blend traditional and modern flavors",
+        "hobbies_interests_and_lifestyle.personal_development.mindfulness_meditation": "Practices mindfulness through daily meditation and reflection"
+    }
+}
